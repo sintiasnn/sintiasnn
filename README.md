@@ -6,4 +6,4 @@
 - 📷 Outside of work: reading, writing tech blogs, and creating random stuff
 - 💬 Ask me about infra, DevOps, or anything in between!
 
-**Find me elsewhere →** [All Repo](https://github.com/sintiasnn?tab=repositories) · [portfolio](https://sintiasnn.github.io) · [medium](https://medium.com/@putusintias) · [linkedin](https://www.linkedin.com/in/putusintia) · [linktree](https://linktr.ee/putusintia)
+**Find me elsewhere →** [All Repo](https://github.com/sintiasnn?tab=repositories) · [Portfolio](https://sintiasnn.github.io) · [Medium](https://medium.com/@putusintias) · [Linkedin](https://www.linkedin.com/in/putusintia) · [Linktree](https://linktr.ee/putusintia)
